@@ -7,7 +7,9 @@
 This Penetration Testing Toolkit Installer is a Bash script that automates the installation of essential penetration testing tools on Kali Linux. It provides a streamlined setup for security professionals, ensuring that all necessary tools are installed and configured with minimal effort.
 
 🔹 Automated Installation – No need for manual setup!
+
 🔹 Comprehensive Toolkit – Includes tools for OSINT, exploitation, credential attacks, web security, social engineering, red teaming, and more.
+
 🔹 Efficient Deployment – Installs everything with one command!
 
 🛠️ Features
@@ -79,6 +81,7 @@ This Penetration Testing Toolkit Installer is a Bash script that automates the i
 Step 1: Clone the Repository
 
 git clone https://github.com/your-repo/pen-test-installer.git
+
 cd pen-test-installer
 
 Step 2: Grant Execution Permissions
