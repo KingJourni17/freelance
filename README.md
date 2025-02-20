@@ -80,7 +80,7 @@ This Penetration Testing Toolkit Installer is a Bash script that automates the i
 
 Step 1: Clone the Repository
 
-git clone https://github.com/your-repo/pen-test-installer.git
+git clone https://github.com/KingJourni17/pen-test-installer.git
 
 cd pen-test-installer
 
