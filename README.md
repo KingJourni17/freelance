@@ -82,15 +82,15 @@ Step 1: Clone the Repository
 
 git clone https://github.com/KingJourni17/freelance.git
 
-cd pen-test-installer
+cd freelance
 
 Step 2: Grant Execution Permissions
 
-chmod +x install_pentest_tools.sh
+chmod +x pentest_tools.sh
 
 Step 3: Run the Script
 
-sudo ./install_pentest_tools.sh
+sudo ./pentest_tools.sh
 
 🔄 Execution Flow
 
